@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">🤞🏿 Hello, Lysander Uy-imnida!</h1>
+<h3 align="center">Curious Mind in Code | Learning, Creating, and Having Fun 🚀</h3>
 
-<!--
-**lysan-uy/lysan-uy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
 
-Here are some ideas to get you started:
+<h2 align="center">Connect with me</h2>
+<div align="center">
+<a href="https://www.linkedin.com/in/lysander-uy-805557223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/uy_lysan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:lysander@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center"></h2>
+<div align="center">
+<img align="center"  width="400" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lysan-uy&layout=compact&theme=gotham" alt=lysan-uy />
+</div>
+<h2 align="center"></h2>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lysan-uy&label=Profile%20views&color=0e75b6&style=flat" alt="lysanderuy" /> </p>
+****
